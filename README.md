@@ -1,4 +1,4 @@
-# Optimized-Shopping-Schedule
+# Optimized Shopping Schedule
 Instructions Before Using the Application:
 Create and save an excel file on your computer with a list of last names.
 -> It would be beneficial if the list of last names are store customers or people who live within the area. (Our recommendation would be to use the last names of any people signed up with your stores rewards program)
